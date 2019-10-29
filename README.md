@@ -8,3 +8,7 @@ The application will use an Arduino MKR FOX as the main microcontroller in the f
 
 # Use Cases
 The application is aimed at detecting logging and informing appropriate authorities about the logging. The system also implies that the authorities can check if the logging was authorised and take appropriate action.
+
+# Link
+A link to the full publication has been included below.
+https://www.hackster.io/LightPro/senso-c00153
