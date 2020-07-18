@@ -8,7 +8,6 @@
 #include <TinyGPS++.h>
 #include <SigFox.h>
 #include <ArduinoLowPower.h>
-#include <Universum_Logo.h>
 #include <AudioAnalyzer.h>
 
 int baudGPS = 9600;
